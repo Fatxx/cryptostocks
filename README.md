@@ -1,1 +1,1 @@
-# cryptostocks-pwa
+# cryptostocks
