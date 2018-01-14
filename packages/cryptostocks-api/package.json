@@ -2,5 +2,9 @@
   "private": true,
   "name": "cryptostocks-api",
   "version": "0.0.1",
-  "description": "My Graphcool Service"
+  "description": "My Graphcool Service",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "graphcool-lib": "^0.1.4"
+  }
 }
